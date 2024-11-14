@@ -1,4 +1,4 @@
-# IA---Mangoes-Ripe-and-Rotten
+# Mangoes-Ripe-and-Rotten
 
 El conjunto de datos Ripe y Rotten contiene datos sobre dos estados del mango. Este es un conjunto de datos multi-variables para determinar el estado de un mango a traves de una imagen.
 
